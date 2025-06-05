@@ -78,7 +78,7 @@ It uses **MySQL** for structured data storage and **Python Tkinter GUI** for use
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/disaster-management-dbms.git
+   git clone [https://github.com/yourusername/disaster-management-dbms.git](https://github.com/vaishnavi-nss/MySQL-Disaster-Relief-Management-system-dbms)
    cd disaster-management-dbms
    ```
 2. Import the SQL schema in MySQL Workbench.
